@@ -42,9 +42,9 @@ public class Person{
     }
 
     public void introduction(){
-        System.out.println("Hello, My name is Tarun.");
+        System.out.println("Hello, My name is KAPIL.");
         System.out.println("The program you are going to use is developed by me.");
-        System.out.println("I am from Etah,Uttar Pradesh,India.");
+        System.out.println("I am from kosi,Uttar Pradesh,India.");
         System.out.println("I am pursuing Bachelor's Degree in Engineering in Computer Science major from G.L.A. University Mathura.");
         System.out.println("So go and use this program.");
     }
